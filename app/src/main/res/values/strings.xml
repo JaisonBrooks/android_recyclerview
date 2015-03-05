@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Top level -->
+    <string name="app_name">RecyclerView</string>
+
+    <!-- list Item -->
+    <string name="list_title">Lorem Ipsum</string>
+    <string name="list_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <!-- The code &#160; is only use to provide 1 space -->
+    <string name="list_position_toast">You clicked Item:&#160;</string>
+
+    <!-- Menu -->
+    <string name="menu_add">Add</string>
+
+    <!-- Toolbar -->
+    <string name="toolbar_title">RecyclerView Demo</string>
+
+</resources>

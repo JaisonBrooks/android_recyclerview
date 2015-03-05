@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="colors">
+        <item>#CE93D8</item>
+        <item>#BA68C8</item>
+        <item>#AB47BC</item>
+        <item>#9C27B0</item>
+        <item>#8E24AA</item>
+        <item>#7B1FA2</item>
+        <item>#6A1B9A</item>
+        <item>#4A148C</item>
+        <item>#311B92</item>
+        <item>#4527A0</item>
+        <item>#512DA8</item>
+        <item>#5E35B1</item>
+        <item>#673AB7</item>
+        <item>#7E57C2</item>
+        <item>#9575CD</item>
+        <item>#B39DDB</item>
+        <item>#9FA8DA</item>
+        <item>#7986CB</item>
+        <item>#5C6BC0</item>
+        <item>#3F51B5</item>
+        <item>#3949AB</item>
+        <item>#303F9F</item>
+        <item>#303F9F</item>
+        <item>#1A237E</item>
+        <item>#0D47A1</item>
+        <item>#1565C0</item>
+        <item>#1976D2</item>
+        <item>#1E88E5</item>
+        <item>#2196F3</item>
+        <item>#42A5F5</item>
+        <item>#64B5F6</item>
+        <item>#90CAF9</item>
+    </array>
+</resources>
