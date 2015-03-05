@@ -16,4 +16,4 @@ A demo app that shows off how to implement a Toolbar, RecyclerView and CardView 
 * Android OS : Android™
 
 ### Screenshot
-![alt tag](https://raw.github.com/JaisonBrooks/android_recyclerview/master/screenshot.png)
+
