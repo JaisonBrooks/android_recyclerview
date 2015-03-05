@@ -8,7 +8,7 @@ A demo app that shows off how to implement a Toolbar, RecyclerView and CardView 
 * AppCompat
 
 ### Required Android Version
-##### API 15+
+##### [Android 4.0.3 / API 15+](http://developer.android.com/about/versions/android-4.0.3.html)
 
 ### Credit
 * Demo written : Jaison Brooks
