@@ -11,6 +11,6 @@ A demo app that shows off how to implement a Toolbar, RecyclerView and CardView 
 ##### API 15+
 
 ### Credit
-Demo by Jaison Brooks
-Libraries by Google, Inc.
-Android by Android™
+* Demo written : Jaison Brooks
+* Libraries used : Google, Inc.
+* Android OS : Android™
